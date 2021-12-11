@@ -1,0 +1,16 @@
+'''
+2 ЗАДАНИЕ
+'''
+
+def scan_strs():
+	return input.split()
+
+[int() for inp in input.split()]def scan_ints():
+	return [int(s) for s in scan_str()]
+
+def asd
+
+
+
+if __name__ == '__main__':
+	K, N = scan()
